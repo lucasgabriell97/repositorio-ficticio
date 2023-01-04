@@ -4,7 +4,7 @@
 
 ![Design preview for the attendance list](./img/Lobo-Screenshot.png)
 
-<h4 align="center"><a href="https://lucasgabriell97.github.io/repositorio/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://lucasgabriell97.github.io/repositorio/ target="_blank">Clique para visitar o projeto</a></h4>
 
 ## 📚 Sobre o projeto
 
